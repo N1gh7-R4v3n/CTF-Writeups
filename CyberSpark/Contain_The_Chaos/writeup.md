@@ -1,9 +1,9 @@
 # Contain The Chaos — Full Writeup
 
-**Challenge Author:** N1gh7R4v3n   
-**Category:** Misc (Fork Bomb / Process Isolation)
-**Difficulty:** Easy
-**Flag:** `Spark{nproc_Pr3v3n75_7h3_B0m8F0rk_C0n741n3r5_n33d_l1m175_700_#F84ng4}`
+- **Challenge Author:** N1gh7R4v3n   
+- **Category:** Misc (Fork Bomb / Process Isolation)
+- **Difficulty:** Easy
+- **Flag:** `Spark{nproc_Pr3v3n75_7h3_B0m8F0rk_C0n741n3r5_n33d_l1m175_700_#F84ng4}`
 
 ---
 
