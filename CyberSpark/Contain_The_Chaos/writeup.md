@@ -9,7 +9,7 @@
 
 ## 1. Challenge Overview
 
-![Contain the chaos page](screenshots/containTheChaos.png.png)
+![Contain the chaos page](screenshots/containTheChaos.png)
 
 **Contain the Chaos** is a two-stage Linux process isolation challenge. Players connect via netcat to a Docker container simulating a server that suffered a fork bomb attack. The task is to investigate the incident and apply proper process limits at two levels:
 
