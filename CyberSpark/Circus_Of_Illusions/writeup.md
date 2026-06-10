@@ -1,9 +1,9 @@
 # Circus of Illusions — Full Writeup
 
-**Challenge Author:** N1gh7R4v3n
-**Category:** Web (Session Forgery / Magic Hash)
-**Difficulty:** Easy
-**Flag:** `Spark{d0n7_7ru57_7h3_juggl3r_5858}`
+- **Challenge Author:** N1gh7R4v3n
+- **Category:** Web (Session Forgery / Magic Hash)
+- **Difficulty:** Easy
+- **Flag:** `Spark{d0n7_7ru57_7h3_juggl3r_5858}`
 
 ---
 
