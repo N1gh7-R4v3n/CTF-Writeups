@@ -1,10 +1,9 @@
 # NexusNews — Full Writeup
 
-**Challenge Author:** N1gh7R4v3n 
-
-**Category:** Web ( CRLF  / cache poisoning )
-**Difficulty:** Medium 
-**Flag:** `Spark{cr1f_c4ch3_p01s0n_n3xus}`
+-**Challenge Author:** N1gh7R4v3n 
+-**Category:** Web ( CRLF  / cache poisoning )
+-**Difficulty:** Medium 
+-**Flag:** `Spark{cr1f_c4ch3_p01s0n_n3xus}`
 
 
 ---
