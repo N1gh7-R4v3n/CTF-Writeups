@@ -1,9 +1,9 @@
 # QuickDeploy — Full Writeup
 
-**Challenge Author:** N1gh7R4v3n   
-**Category:** Web (NoSQL Injection / Rate Limit Bypass)
-**Difficulty:** Easy–Medium
-**Flag:** `Spark{r4t3_l1m1t_5p00f1ng_m4st3r}`
+- **Challenge Author:** N1gh7R4v3n   
+- **Category:** Web (NoSQL Injection / Rate Limit Bypass)
+- **Difficulty:** Easy–Medium
+- **Flag:** `Spark{r4t3_l1m1t_5p00f1ng_m4st3r}`
 
 ---
 
